@@ -1,0 +1,5 @@
+package myreview.service;
+
+public class ReplyServiceImpl {
+
+}

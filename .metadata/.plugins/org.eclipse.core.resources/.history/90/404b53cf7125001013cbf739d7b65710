@@ -1,0 +1,18 @@
+package myreview.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import myreview.model.ReplyDao;
+
+
+@Service("ReplyService")
+ public class ReplyServiceImpl implements ReplyService{
+	
+	
+	@Autowired
+	private ReplyDao replyDaoImpl;
+	
+	
+	
+}

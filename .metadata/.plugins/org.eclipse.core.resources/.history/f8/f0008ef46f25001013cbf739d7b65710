@@ -1,0 +1,5 @@
+package myreview.model;
+
+public interface ReplyDao {
+
+}

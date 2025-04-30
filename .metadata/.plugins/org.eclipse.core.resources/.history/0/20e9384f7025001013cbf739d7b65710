@@ -1,0 +1,15 @@
+package myreview.vo;
+
+import lombok.Data;
+
+@Data
+
+
+public class ReplyVo {
+	
+	private int replyNo;
+	private String writer;
+	private String reply;
+
+	
+}
