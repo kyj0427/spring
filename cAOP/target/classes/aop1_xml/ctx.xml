@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd
+		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.3.xsd">
+
+<!-- @(annotation)을 찾는 패키지 지정 -->
+<context:component-scan base-package="aop2_annotation"/> <!-- 객체 관리를 자동으로 해주기위함 -->
+
+<!-- AOP적용 --> <!--  @Aspect + @Component 기반 AOP를 자동으로 작동하게 해주는 설정 태그 -->
+<aop:aspectj-autoproxy/>
+
+
+</beans>
+
+<!-- ctx.xml  -->
+
+
