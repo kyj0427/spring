@@ -1,9 +1,0 @@
-package myreview.service;
-
-import java.util.List;
-	
-@service("")	
-public class ReplyServiceImpl implements ReplyService{
-
-	
-}

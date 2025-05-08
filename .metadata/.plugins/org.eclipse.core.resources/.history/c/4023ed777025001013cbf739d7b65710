@@ -1,7 +1,0 @@
-package myreview.model;
-
-public interface ReplyDao {
-	
-	void insertReply(ReplyVO vo);
-
-}

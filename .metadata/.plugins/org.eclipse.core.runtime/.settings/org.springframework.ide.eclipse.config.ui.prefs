@@ -1,2 +1,6 @@
 //com.springsource.config.ui.prefs.activePageIndex\:/aDIExercise/src/exercise/beans.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/aDIReview/ctx.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/aDIReview/src/ctx.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/cAOP/src/aop1_xml/ctx.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/cAOP/src/aop2_annotation/copy/ctx.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 eclipse.preferences.version=1

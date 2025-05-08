@@ -2,4 +2,30 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="javax.annotation.processing.SupportedAnnotationTypes"/>
     <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="lombok.ToString"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Repeatable"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="jdk.internal.org.jline.terminal.TerminalBuilder.SystemOutput"/>
+    <fullyQualifiedTypeName name="myreview.vo.ReplyVO"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="myreview.model.ReplyDao"/>
+    <fullyQualifiedTypeName name="myreview.service.ReplyService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="aop1_xml.MessageBean"/>
+    <fullyQualifiedTypeName name="java.awt.Point"/>
+    <fullyQualifiedTypeName name="org.aspectj.lang.JoinPoint"/>
+    <fullyQualifiedTypeName name="org.aopalliance.intercept.Joinpoint"/>
+    <fullyQualifiedTypeName name="java.lang.Throwable"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Aspect"/>
+    <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Around"/>
 </qualifiedTypeNameHistroy>

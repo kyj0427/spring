@@ -1,7 +1,0 @@
-package myreview.service;
-
-public interface ReplyService {
-	
-	void insertRelply(replyVO vo);
-	
-}

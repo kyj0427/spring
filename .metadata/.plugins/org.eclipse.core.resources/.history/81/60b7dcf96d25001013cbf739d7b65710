@@ -1,5 +1,0 @@
-package myreview.service;
-
-public interface ReplyService {
-
-}
